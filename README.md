@@ -4,7 +4,7 @@
 
 
 
-[![PyPher - Image](Images/PyPher.png)]
+![PyPher - Image](Images/PyPher.png)
 
 
 # Features
