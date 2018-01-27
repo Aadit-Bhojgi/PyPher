@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/Aadit-Bhojgi/PyPher.svg)](https://github.com/Aadit-Bhojgi/PyPher/blob/master/LICENSE)
 [![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Aadit-Bhojgi/PyPher/releases/download/v1.0/PyPher.exe)
-
 -------------------------------------------
 
 <img src="Images/PyPher.png" alt="PyPher - Image">
