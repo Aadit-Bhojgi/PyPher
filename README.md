@@ -1,5 +1,5 @@
 # PyPher - Text Editor
-[![GitHub license](https://img.shields.io/github/license/Aadit-Bhojgi/PyPher.svg?style=for-the-badge)](https://github.com/Aadit-Bhojgi/PyPher/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Aadit-Bhojgi/PyPher.svg?style=plastic)](https://github.com/Aadit-Bhojgi/PyPher/blob/master/LICENSE)
 <img src="Images/PyPher.png" alt="PyPher - Image">
 
 # Features
