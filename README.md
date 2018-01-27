@@ -1,4 +1,5 @@
 # PyPher - Text Editor
+[![Download][download-badge]][v1.0]
 <img src="Images/PyPher.png" alt="PyPher - Image">
 
 # Features
