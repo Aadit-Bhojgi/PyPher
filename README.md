@@ -3,7 +3,8 @@
 [![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Aadit-Bhojgi/PyPher/releases/download/v1.0/PyPher.exe)
 
 
-<img src="Images/PyPher.png" alt="PyPher - Image">
+
+[![PyPher - Image](Images/PyPher.png)
 
 
 # Features
