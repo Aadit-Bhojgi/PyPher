@@ -4,7 +4,7 @@
 
 ![PyPher - Image](Images/PyPher.png)
 
-# Features
+### Features
 **PyPher** is a simple yet an amazing Text-Editor which lets you **Password Protect** and **Cipher** your data in form of a Text file.
 
 * User can create a new file or read from the existing file (like - `.txt`, `.docx`, `.ppt` or any other file format).
